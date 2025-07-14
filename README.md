@@ -66,10 +66,20 @@
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-navik-43b24b1b2/)  
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Shinobi-MADARA)  
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://x.com/nitin6180)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/NAVIKNITIN)
+<p>
+  <a href="https://www.linkedin.com/in/nitin-navik-43b24b1b2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/nitin6180" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.youtube.com/@Shinobi-MADARA" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://github.com/NAVIKNITIN" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
