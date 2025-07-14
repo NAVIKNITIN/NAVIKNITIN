@@ -28,6 +28,6 @@
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-navik/)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Shettystreams)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-navik-43b24b1b2/)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Shinobi-MADARA)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://x.com/nitin6180)
