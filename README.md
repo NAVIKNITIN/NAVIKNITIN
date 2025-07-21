@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on **ShinobiScannerApp (React Native + Node.js + AI OCR)**  
+- 🔭 I’m currently working on **LOS | Sales | Partner Portal (React Native + Node.js )**  
 - 🌱 I’m exploring **AI integrations in mobile and desktop applications**
 - 👯 I’m open to collaborating on **React.js, Electron, and Next.js projects**
 - 📫 Reach me at: **codewithnitin19@gmail.com**
