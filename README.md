@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F705&center=true&vCenter=true&width=600&lines=Hello+World!;I+am+Nitin+Navik;React.js Expert)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Nitin Navik</h1>
 <h3 align="center">Full Stack Developer | React.js Expert | React Native | Node.js | Fintech Specialist</h3>
 
