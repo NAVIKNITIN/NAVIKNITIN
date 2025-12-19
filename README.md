@@ -84,7 +84,149 @@ Working on enterprise-grade portals:
 
 ---
 
-## 📫 Contact  
+# 🚀 KEY PROJECT PORTFOLIO (42 PROJECTS)
+
+---
+
+## 🔥 FINTECH PROJECTS
+### Loan Origination System (LOS)
+Designed enterprise onboarding workflow enabling loan applications, document upload, scoring rules, approval journeys & dashboards.
+
+### Partner Lending Portal
+Built multi-tenant partner onboarding, disbursement, agreement & finance workflows for NBFC operations.
+
+### Sales Lead Management Portal
+Created sales pipeline UI + backend to manage leads, scoring, status, and sales analytics with dynamic dashboards.
+
+### Loan Eligibility Rule Engine
+Automated loan eligibility logic with cibil score, income, product mapping & exception rule handling.
+
+### KYC Workflow & PAN/Aadhaar Verification
+Developed OCR, form validation, live data validation and document extraction modules to automate verification.
+
+### Repayment Collection Dashboard
+Built dashboard for due payments, collections, NPA tracking, aging charts and EMI buckets.
+
+### Commission Settlement Engine
+Built algorithm-based partner commission mapping & transaction recording.
+
+### NBFC Operational Admin Panel
+Created internal admin tool for loan, customers, approvals, roles, access & usage logs.
+
+### Income Document OCR Engine
+Processed PDF and image statements into structured financial datasets.
+
+### Agreement PDF Automation
+Auto generated PDF loan agreement templates with stamps & signatures.
+
+### Customer Loan Tracking Portal
+Built customer self-service digital app for EMI status, statements & alerts.
+
+### Corporate Lending System
+Multi-step lending workflow for corporate loans, sanctioning flow and approval chain.
+
+---
+
+## 🔥 REACT NATIVE / MOBILE APPS
+### Turbo Scanner App (PDF + OCR)
+Mobile scanning, cropping, page reorder, filters & PDF export.
+
+### CRM Field App
+Lead entry, customer visit logging, meeting scheduling, and dynamic workflow support.
+
+### Inventory Scanner
+Barcode/QR apps to track warehouse stock movements.
+
+### Expense Tracker
+Mobile finance analytics with charts and data history storage.
+
+### Visitor Pass QR App
+QR authentication at office gate entries.
+
+### AI Travel Planner
+Generated itinerary recommendations using AI prompts.
+
+### Workout Planner
+Exercise scheduling + diet suggestion interface.
+
+### Digital Signature Mobile App
+Sign PDF documents digitally with gesture/pen input.
+
+---
+
+## 🔥 FRONTEND / WEB PROJECTS
+### E-Commerce Store Platform
+Built product search, filters, wishlist, cart & order flow.
+
+### Blogging CMS
+Admin blogging + page publishing + SEO metadata.
+
+### Real-Time Chat App
+Channels, web sockets, emojis & notifications.
+
+### SaaS Admin Dashboard
+Custom widgets + themes + user management.
+
+### Library Management System
+RFID book tracking + member tracking UI.
+
+### Cloud File Manager
+Upload, tagging, permissions, compression & sharing.
+
+### UI Component Design Library
+Theme engine + reusable UI sets.
+
+### RBAC Access Routing System
+User role authentication + protected routing.
+
+### Portfolio Builder SaaS
+Users can build personal portfolio pages.
+
+### HRMS Portal UI
+Team attendance, leave, payroll dashboards.
+
+### Online Test Platform
+MCQ tests + instant scoring + analytics.
+
+### Social Media Analytics Dashboard
+YouTube, X, Instagram analytics graphs.
+
+### Micro-frontend Integration
+Cross-web app integration using shared modules.
+
+### Offline PWA Business App
+Invoice, billing and sync without internet.
+
+---
+
+## 🔥 NODE / BACKEND PROJECTS
+### JWT Auth Server
+Signup, login, audit logs, token refresh.
+
+### Payment Gateway Engine
+Stripe/Razorpay wallet API handling.
+
+### Billing Microservice
+Invoice generation & usage tracking logic.
+
+### File/Image Compression Engine
+Batch file process server engine.
+
+### Cron Task Scheduler
+Automation triggers, reminders & status pipeline.
+
+### REST API Boilerplate Architecture
+Full backend template with layers, middleware & routing.
+
+### Real-time Notification Server
+Websocket event engine.
+
+### Audit Logging System
+Usage logging, dataset tracking + analytics.
+
+---
+
+# 🧾 Contact  
 - Email: **codewithnitin19@gmail.com**  
 
 ---
@@ -125,4 +267,4 @@ Working on enterprise-grade portals:
 
 ---
 
-⭐ If you find my projects helpful, consider giving a star or connecting with me!  
+⭐ If you find my projects helpful, consider giving a star or connecting with me!
